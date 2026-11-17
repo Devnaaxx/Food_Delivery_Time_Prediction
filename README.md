@@ -47,7 +47,7 @@ To generate the model, run the model-training cells in the Google Colab notebook
 
 🌐 Live Streamlit Application
 
-Try my Food Delivery Time Prediction application:
+Try my Food Delivery Time Prediction application:https://octopus-starry-buggy.ngrok-free.dev/
 
  Open Food Delivery Time Predictor
 
