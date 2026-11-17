@@ -39,6 +39,20 @@ To develop a machine learning model that predicts food delivery time using regre
 
 An interactive Streamlit application that allows users to enter delivery details and get predicted delivery time.
 
+ Model File
+
+The trained machine learning model is saved as food_delivery_model.pkl.
+
+To generate the model, run the model-training cells in the Google Colab notebook.
+
+🌐 Live Streamlit Application
+
+Try my Food Delivery Time Prediction application:
+
+ Open Food Delivery Time Predictor
+
+Note: The application is hosted through Google Colab and ngrok. It is available only while the Colab session and ngrok tunnel are running.
+
 👩‍💻 Author
 
 DEVNA PP
