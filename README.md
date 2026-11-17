@@ -53,6 +53,8 @@ Try my Food Delivery Time Prediction application:https://octopus-starry-buggy.ng
 
 Note: The application is hosted through Google Colab and ngrok. It is available only while the Colab session and ngrok tunnel are running.
 
+Project Screenshot
+
 👩‍💻 Author
 
 DEVNA PP
